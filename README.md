@@ -14,3 +14,4 @@ As of now,
 1. the images are in the flower_dataset_extracted file, which contains all classes of flowers.
 2. the model is in the other main code.ipynb file
 3. the latest model was saved as flower_classification_model_latest.h5
+4. the UI pages were supposed to be in the st_multi_app by I am having issues that I am trying to fix.
