@@ -1,5 +1,4 @@
 # Progress
-to share the progress of my project to the supervisor
 
 
 As of now, 
